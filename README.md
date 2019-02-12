@@ -1,0 +1,2 @@
+# devdacticFire
+Ionic/Firebase Tutorial
